@@ -6,12 +6,12 @@ A selection of pages that I have designed and sub-edited.
     <table>
     <tr>    
         <td>
-        <img src="https://user-images.githubusercontent.com/117950069/214701162-707d5d84-057f-4d58-b5b3-2d9285036ef4.jpg" alt="FN Front page"
+        <img src="https://user-images.githubusercontent.com/117950069/214707276-5bdd88e9-10c5-4762-9e8b-6ac75af3a143.jpg" alt="FN News Spread"
         width="300" align="center"/>
         </td>
         <td>&nbsp; &nbsp;</td>
         <td>
-        <img src="https://user-images.githubusercontent.com/117950069/214701152-6413be76-fe58-4986-a5e3-2a2851b4fc88.jpg" alt="FN Comment"
+        <img src="https://user-images.githubusercontent.com/117950069/214707193-e9492e79-3aae-4b68-b854-54318db0a854.jpeg" alt="FN News Spread"
         width="300" align="center"/>
         </td> 
     </tr>
@@ -19,12 +19,12 @@ A selection of pages that I have designed and sub-edited.
     <table>
     <tr>    
         <td>
-        <img src="https://user-images.githubusercontent.com/117950069/214701162-707d5d84-057f-4d58-b5b3-2d9285036ef4.jpg" alt="FN Front page"
+        <img src="https://user-images.githubusercontent.com/117950069/214707262-8efbd947-7426-41bf-8ee3-825303fe289f.jpg" alt="FN News Spread"
         width="300" align="center"/>
         </td>
         <td>&nbsp; &nbsp;</td>
         <td>
-        <img src="https://user-images.githubusercontent.com/117950069/214701152-6413be76-fe58-4986-a5e3-2a2851b4fc88.jpg" alt="FN Comment"
+        <img src="https://user-images.githubusercontent.com/117950069/214707215-1aa24732-49ff-45e4-90b8-6a1a9b4c40fd.jpg" alt="FN News Spread"
         width="300" align="center"/>
         </td> 
     </tr>
