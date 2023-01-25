@@ -25,6 +25,7 @@ A selection of pages that I have designed and sub-edited.
         width="150" align="center"/>
         </td>   
     </tr>
+    </table> <br/>
     <table>
     <tr>    
         <td>
@@ -50,6 +51,5 @@ A selection of pages that I have designed and sub-edited.
         width="300" align="center"/>
         </td> 
     </tr>
-    </table> <br/>
     </table> <br/>
 </div>
